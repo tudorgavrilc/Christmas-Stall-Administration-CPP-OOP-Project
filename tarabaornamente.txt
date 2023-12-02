@@ -1,0 +1,11 @@
+
+--------------------
+Editie targ: 2022
+Dimensiune taraba in metri patrati: 5
+Nume taraba: NUME NOU
+Nr. clienti pe zi: 2 3 4 5 6 
+Profit: 200
+--------------------
+Nr. tipuri ornamente: 3
+Nume si pret ornamente: Globuri(5) Betea(20) Stea(50) 
+--------------------

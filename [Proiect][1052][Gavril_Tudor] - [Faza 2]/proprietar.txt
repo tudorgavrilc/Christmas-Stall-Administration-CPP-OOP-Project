@@ -1,0 +1,13 @@
+
+--------------------
+An autorizatie: 2022
+Nume proprietar: Adrian
+CNP proprietar: 5020320297642
+Zile in care proprietarul a fost prezent: 
+Ziua 1 prezent
+Ziua 2 prezent
+Ziua 3 prezent
+Ziua 4 prezent
+Ziua 5 prezent
+Profit proprietar: 500
+--------------------

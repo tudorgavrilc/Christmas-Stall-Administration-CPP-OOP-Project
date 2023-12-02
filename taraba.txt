@@ -1,0 +1,8 @@
+
+--------------------
+Editie targ: 2022
+Dimensiune taraba in metri patrati: 5
+Nume taraba: TarabaDeArama
+Nr. clienti pe zi: 1 3 3 4 5 
+Profit: 600
+--------------------
